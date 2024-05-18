@@ -1,0 +1,2 @@
+I noticed a mistake in the editorial of Question 979. Distribute Coins in Binary Tree. The issue is where the dfs details are given. In the third bullet point it should
+be Calculate the number of coins the "right" subtree needs to exchange instead of Calculate the number of coins the "left" subtree needs to exchange.
